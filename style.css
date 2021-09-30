@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(255, 200, 16);
+}
+
+.circle {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 100%;
+  margin-left: 250px;
+}
+
+.circle2 {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 100%;
+  margin-right: 250px;
+}
+
+#page-title {
+  text-align: center;
+  font-family: "Courier New";
+}
+.block-1 {
+  background-image: url(nnn.png);
+  background-size: cover;
+  background-color: green;
+  font-size: 22px;
+  width: 400 px;
+  height: 200px;
+  padding: 20px 40px;
+  border: hotpink solid 5px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+}
+
+p {
+  color: #11bcffe7;
+  font-style: italic;
+}
+.abzac-1 {
+  color: green;
+  font-size: 20px;
+}
+.abzac {
+  font-size: 32 px;
+}
+
+h2.abzac {
+  text-align: center;
+  font-size: 1.5em; /* = 1,5x16px */
+}
