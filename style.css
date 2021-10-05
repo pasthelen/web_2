@@ -41,13 +41,12 @@ body {
   background-image: url(Sylvia_Plath.jpg);
   background-size: cover;
   font-size: 22px;
-  width: 400px;
-  height: 500px;
+  width: 149px;
+  height: 194px;
   padding: 20px 40px;
-  border: black solid 7px;
-  margin-left: 200px;
-  margin-right: 150px;
-  margin-top: 50px;
+  border: black solid 3px;
+  margin-left: 1065px;
+  margin-top: -275px;
 }
 
 .block-3 {
@@ -96,6 +95,7 @@ p {
 
 h1 {
   display: inline-block;
+  font-family: "Poiret One";
   background: black; /* Цвет фона под заголовком */
   color: white; /* Цвет текста */
   padding: 4px; /* Поля вокруг текста */
@@ -106,7 +106,7 @@ h1 {
 
 h2.abzac {
   text-align: center;
-  font-size: 1.5em; /* = 1,5x16px */
+  font-size: 1.2em; /* = 1,5x16px */
 }
 
 .georg {
@@ -115,5 +115,14 @@ h2.abzac {
   font-family: "Courier New";
   font-style: normal;
   margin-left: 757px;
+  margin-top: -34px;
+}
+
+.sylvia {
+  color: black;
+  font-size: 16px;
+  font-family: "Courier New";
+  font-style: normal;
+  margin-left: 1065px;
   margin-top: -34px;
 }
